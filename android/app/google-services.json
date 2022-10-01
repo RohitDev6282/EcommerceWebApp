@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "565707067699",
+    "project_id": "innechar-ccaa7",
+    "storage_bucket": "innechar-ccaa7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565707067699:android:c9086bba375546dcb1ae46",
+        "android_client_info": {
+          "package_name": "com.example.innechar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565707067699-ru0tkd8bs7saaf01vnd4hvlp58brggf7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIJDNCXn9m-wkBz6Whe1yC9N_s4HjVerY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565707067699-ru0tkd8bs7saaf01vnd4hvlp58brggf7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
